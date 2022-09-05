@@ -1,0 +1,150 @@
+
+html{
+
+
+  border-left:81px solid #F04E4E;
+  border-right:81px solid #F04E4E;
+
+
+
+
+}
+
+body{
+
+  margin: 0px;
+  background-color: #9FA376;
+  background-image:url("sunset-1985086.jpg");
+  background-repeat:repeat;
+
+
+}
+
+h1{
+
+  margin:0px;
+  font-size:50px;
+  text-align:center;
+  color:#1A1A61;
+  background: linear-gradient( #A36270,#A56274);
+  text-shadow:3px 3px 2px #2B2BA1;
+  font-family: 'Archivo Black', sans-serif;
+  padding:14px;
+
+
+}
+
+h2{
+
+  margin:0px;
+  font-size:30px;
+  text-align:center;
+  background:linear-gradient( #A36270,blue);;
+  color:black;
+  text-shadow:3px 3px 2px #826DA3;
+  font-family: 'Lobster Two', cursive;
+  padding:16px;
+
+
+}
+
+nav{
+
+  margin:0px;
+
+}
+
+
+
+
+
+ul{
+
+  display:flex;
+
+    justify-content:center;
+    flex-direction:row;
+    flex-wrap:wrap;
+
+    align-items:center;
+
+  border:0px;
+  padding:0px;
+  margin:0px;
+
+
+
+
+}
+
+li{
+
+  list-style-type:none;
+  font-family: 'Press Start 2P', cursive;
+  padding:2px;
+  margin:0px;
+  height:20px;
+  border: 2px 2px blue;
+
+
+
+}
+
+li:hover{
+
+  background-color:#332859;
+  cursor: pointer;
+
+
+}
+
+.cores1{
+
+  background-color:#631869;
+
+}
+
+.cores2{
+
+  background-color:#9A26A3;
+
+}
+
+.cores3{
+
+  background-color:#9A59A9;
+
+
+}
+
+
+
+  #texto{
+
+    padding:10px;
+    margin-left:100px;
+    margin-right:100px;
+    margin-top:50px;
+    margin-bottom:50px;
+    border: 3px solid black ;
+    background:linear-gradient(#E5ECE2,#CED9AB);
+
+    text-align:left;
+    font-size:23px;
+    line-height:39px;
+
+    display:inline-block;
+
+
+    height:800px;
+
+
+
+  }
+
+  #imagem{
+
+    padding-top:80px;
+    padding-left:235px;
+
+  }
